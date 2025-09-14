@@ -36,13 +36,13 @@ go mod tidy
 
 3. Постройте исполняемый файл:
 
-```powershell
+```bash
 go build -o telegram-notes.exe
 ```
 
 4. Запустите программу:
 
-```powershell
+```bash
 .\telegram-notes.exe
 ```
 
